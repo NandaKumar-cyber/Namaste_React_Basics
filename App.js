@@ -8,7 +8,7 @@ const heading1 = React.createElement(
 const container = React.createElement(
     "div",
     {
-        id:"conatiner"
+        id:"container"
     },
     [heading1]
 )
